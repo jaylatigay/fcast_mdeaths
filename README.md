@@ -101,7 +101,7 @@ The models are compared using **MAD, MAPE, and RMSE** accuracy metrics.
 
 ## 🧐 Interpretations  
 
-- The time series data, **mdeaths**, showed a **declining long-term trend**, with **seasonal peaks from January to March**, **lows in mid-year**, and **rebounds during the last three months**. It also contained random monthly noise.  
+- The time series data, **mdeaths**, showed a **declining long-term trend**, with **seasonal peaks from January to March**, **lows in mid-year**, and **rebounds during the last three months** every year. It also contained random monthly noise.  
 
 - **SMA, WMA, and SES** produced **flat forecasts**. These models are not suited for datasets with both **seasonality and trend**, since they cannot keep up with variations in the data.  
 
