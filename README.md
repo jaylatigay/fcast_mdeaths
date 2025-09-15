@@ -3,6 +3,7 @@
 **Author:** Jaymart G. Latigay  
 **Date:** September 12, 2025  
 **Course:** DS 238: Time Series and Forecasting  
+
 ---
 
 ## 📌 Project Overview  
