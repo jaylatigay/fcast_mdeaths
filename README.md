@@ -49,8 +49,6 @@ The models are compared using **MAD, MAPE, and RMSE** accuracy metrics.
 
 ## 📊 Results  
 
-### 🔮 Forecasts (Months 61–72, Jan–Dec 1979)  
-
 ### 🔮 Forecasts (Jan–Dec 1979, Months 61–72)
 
 #### 📌 Simple Moving Average (SMA, 4-month)
