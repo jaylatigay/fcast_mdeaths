@@ -3,13 +3,13 @@
 **Author:** Jaymart G. Latigay  
 **Date:** September 12, 2025  
 **Course:** DS 238: Time Series and Forecasting  
-**Exercise #1**  
-
 ---
 
 ## 📌 Project Overview  
 
 This project compares **five time series forecasting models** using monthly death data (`mdeaths`) from **1974–1978 (60 months)** as training data. The goal is to generate a **12-month forecast for 1979 (months 61–72)** and evaluate each model's **one-step in-sample accuracy**.  
+
+(`mdeaths`) is a built-in R time-series data that records male deaths in the United Kingdom from 1974 to 1979 due to Lung Diseases (i.e., bronchitis, emphysema, and asthma)
 
 Models implemented:  
 - **Simple Moving Average (SMA)**  
